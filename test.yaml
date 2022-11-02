@@ -1,0 +1,4 @@
+- 'dummy comment'
+- script:
+    area: level_1
+    fails_on_deadbeef: problem

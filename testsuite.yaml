@@ -1,0 +1,6 @@
+- 'dummy comment'
+- name:
+    tests:
+    - path1
+    - path2
+    - path3
